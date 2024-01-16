@@ -7,7 +7,7 @@ year: 2024
 
 **Submission deadline:** **February 9, 2024 (Anywhere on Earth).**<br>
 
-**Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/forum?id=W6Dh-WA_eA)** <br>
+**Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AGI)** <br>
 
 **Author notification:** March 3, 2024 (Anywhere on Earth)
 
