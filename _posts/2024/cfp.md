@@ -24,7 +24,7 @@ year: 2024
 - You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 7-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
 
 
-The workshop will be held fully in person at the Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024).
+The workshop will be held fully in a hybrid mode (in person or virtual presentation) at the Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024).
 We also plan to offer livestream for the event, and more details will come soon. 
 
 This workshop aims to become a melting pot for ideas, discussions, and debates regarding our proximity to AGI. We invite submissions on a range of topics including, but not limited to:
