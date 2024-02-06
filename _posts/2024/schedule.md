@@ -5,9 +5,9 @@ permalink: /2024/schedule/
 year: 2024
 ---
 
-The workshop will be held **fully in person** at Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **May 11, 2024**. Check out the official ICLR workshop page for more information and live-stream for registerants **[here](https://iclr.cc/Conferences/2024/CallForWorkshops)**.
+The workshop will be held **in hybrid mode** in Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **May 11, 2024**. Check out the official ICLR workshop page for more information about registration and live-stream for registrants **[here](https://iclr.cc/Conferences/2024/CallForWorkshops)**.
 
-We aim to showcase the latest in AGI research, delve into breakthroughs from LLMs and foundation models, and assess the current gaps and challenges towards AGI. With insights from renowned AI experts, the workshop seeks to spark new ideas, foster discussions, and compile a comprehensive summary to guide the broader AI and ML community. We have confirmed with many renowned researchers with interest in giving the keynote talks.
+We aim to showcase the latest in AGI research, delve into breakthroughs from LLMs and foundation models, and assess the current gaps and challenges towards AGI. With insights from renowned AI experts, the workshop seeks to spark new ideas, foster discussions, and compile a comprehensive summary to guide the broader AI and ML community. We have confirmed with many renowned researchers interested in giving the keynote talks.
 
 - 8:00 AM - 8:45 AM: Poster Setup
 - 8:45 AM - 9:00 AM: Opening Remarks: Jiaxuan You
@@ -17,7 +17,7 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 - 11:30 AM - 12:00 AM: Discussions and Coffee break
 - 12:00 AM - 1:30 PM: **Poster session 1 and Lunch break**
 - 1:30 PM - 2:15 PM: **Keynote talk**: Joshua Tenenbaum, MIT
-- 2:15 PM - 3:00 PM: **Keynote talk**: Andrej Karpathy, OpenAI 
+- 2:15 PM - 3:00 PM: **Keynote talk**: TBD
 - 3:00 PM - 3:30 PM: **Contributed talks**
 - 3:30 PM - 4:00 PM: Discussions and Coffee break
 - 4:00 PM - 5:00 PM: **Poster session 2**
