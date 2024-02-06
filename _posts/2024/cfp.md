@@ -13,7 +13,7 @@ year: 2024
 
 **Camera ready deadline:** May 1, 2024 (Anywhere on Earth)
 
-**Workshop (in person):** May 11, 2024 <br>
+**Workshop (in hybrid mode):** May 11, 2024 <br>
 
 <!-- **Updates:** 
 - Please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
