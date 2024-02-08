@@ -5,7 +5,7 @@ permalink: /2024/cfp/
 year: 2024
 ---
 
-**Submission deadline:** ~~February 9, 2024 (Anywhere on Earth)~~.**February 11, 2024 (Anywhere on Earth)**<br>
+**Submission deadline:** ~~February 9, 2024 (Anywhere on Earth)~~**February 11, 2024 (Anywhere on Earth).**<br>
 
 **Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AGI)** <br>
 
