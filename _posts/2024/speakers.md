@@ -22,6 +22,11 @@ year: 2024
       <a href="https://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a><br/>
       MIT
     </td>
+    <td> 
+      <img src="/images/people/oriol.jpg?raw=true" alt="1" width=auto height=200px><br/>
+      <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br/>
+      MIT
+    </td>
   </tr>
 </table>
 
