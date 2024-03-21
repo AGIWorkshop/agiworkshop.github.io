@@ -25,7 +25,7 @@ year: 2024
     <td> 
       <img src="/images/people/oriol.jpg?raw=true" alt="1" width=auto height=200px><br/>
       <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br/>
-      MIT
+      Google DeepMind
     </td>
   </tr>
 </table>
