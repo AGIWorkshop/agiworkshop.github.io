@@ -11,13 +11,13 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 
 - 8:00 AM - 8:45 AM: Poster Setup
 - 8:45 AM - 9:00 AM: Opening Remarks: Jiaxuan You
-- 9:00 AM - 10:00 AM: **Keynote talk**: Yoshua Bengio, MILA
+- 9:00 AM - 10:00 AM: **Keynote talk**: Joshua Tenenbaum, MIT 
 - 10:00 AM - 11:00 AM: **Keynote talk**: Yejin Choi, University of Washington
 - 11:00 AM - 11:30 AM: **Contributed talks from submissions**
 - 11:30 AM - 12:00 AM: Discussions and Coffee break
 - 12:00 AM - 1:30 PM: **Poster session 1 and Lunch break**
-- 1:30 PM - 2:15 PM: **Keynote talk**: Joshua Tenenbaum, MIT
-- 2:15 PM - 3:00 PM: **Keynote talk**: TBD
+- 1:30 PM - 2:30 PM: **Keynote talk**: Yoshua Bengio, MILA
+- 2:30 PM - 3:00 PM: **Keynote talk**: TBD
 - 3:00 PM - 3:30 PM: **Contributed talks**
 - 3:30 PM - 4:00 PM: Discussions and Coffee break
 - 4:00 PM - 5:00 PM: **Poster session 2**
