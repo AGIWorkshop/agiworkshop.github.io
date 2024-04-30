@@ -13,8 +13,8 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 - 8:40 AM - 9:00 AM: Opening Remarks: Jiaxuan You
 - 9:00 AM - 9:50 AM: **Contributed talks from submissions**
 - 9:50 AM - 10:00 AM: **Invited talk**: UK
-- 10:00 AM - 10:45 AM: **Keynote talk**: Yejin Choi, University of Washington
-- 10:45 AM - 11:30 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
+- 10:00 AM - 10:45 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
+- 10:45 AM - 11:30 AM: **Keynote talk**: Yejin Choi, University of Washington
 - 11:30 AM - 12:15 PM: **Poster session**
 - 12:15 PM - 1:30 PM: **Lunch break and poster session**
 - 1:30 PM - 2:30 PM: **Keynote talk**: Yoshua Bengio, MILA
