@@ -8,7 +8,7 @@ year: 2024
 <table>
   <tr>
     <td> 
-      <img src="/images/people/YoshuaBengio.jpg?raw=true" alt="1" width=180px height=200px><br/>
+      <img src="/images/people/YoshuaBengio.jpg?raw=true" alt="1" width=auto height=200px><br/>
       <a href="https://yoshuabengio.org">Yoshua Bengio</a><br/>
       MILA
     </td>
