@@ -13,17 +13,19 @@ year: 2024
       MILA
     </td>
     <td> 
-      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=auto height=200px><br/>
+      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=180px height=200px><br/>
       <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br/>
       University of Washington
     </td>
     <td> 
-      <img src="/images/people/JoshuaTenenbaum.jpg?raw=true" alt="1" width=auto height=200px><br/>
-      <a href="https://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a><br/>
-      MIT
+      <img src="/images/people/Andrew Gordon Wilson.jpeg?raw=true" alt="1" width=180px height=200px><br/>
+      <a href="https://cims.nyu.edu/~andrewgw/">Andrew Gordon Wilson</a><br/>
+      New York University
     </td>
+      </tr>
+  <tr>
     <td> 
-      <img src="/images/people/oriol.jpg?raw=true" alt="1" width=auto height=200px><br/>
+      <img src="/images/people/oriol.jpg?raw=true" alt="1" width=180px height=200px><br/>
       <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br/>
       Google DeepMind
     </td>
