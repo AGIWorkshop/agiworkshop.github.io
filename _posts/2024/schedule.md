@@ -15,12 +15,12 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 - 9:30 AM - 9:45 AM: **Invited talk**: UK Gov AI Safety Institute
 - 9:45 AM - 10:00 AM: **Coffee break and social**
 - 10:00 AM - 10:45 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
-- 10:45 AM - 11:15 AM: **Keynote talk**: Andrew Gordon Wilson, New York University
-- 11:15 AM - 12:00 PM: **Keynote talk**: Yejin Choi, University of Washington
+- 10:45 AM - 11:30 AM: **Keynote talk**: Yejin Choi, University of Washington
+- 11:30 AM - 12:00 PM: **Keynote talk**: Andrew Gordon Wilson, New York University
 - 12:00 PM - 12:30 PM: **Keynote talk**: Song Han, MIT
 - 12:30 PM - 1:30 PM: **Lunch break and social**: Another opportunity for poster setup
 - 1:30 PM - 2:30 PM: **Keynote talk**: Yoshua Bengio, MILA
-- 2:35 PM - 4:00 PM: **Panel discussions: How far are we from AGI?** Yoshua Bengio, Yejin Choi, Andrew Gordon Wilson; Organizers: Jiaxuan You, Ge Liu, Song Han, Dawn Song
+- 2:35 PM - 4:00 PM: **Panel discussions: How far are we from AGI?** Speakers: Yoshua Bengio, Yejin Choi, Andrew Gordon Wilson; Organizers: Jiaxuan You, Ge Liu, Song Han, Dawn Song
 - 4:00 PM - 5:00 PM: **Poster session and social**
 
 
