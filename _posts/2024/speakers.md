@@ -29,11 +29,6 @@ year: 2024
       <a href="https://cims.nyu.edu/~andrewgw/">Andrew Gordon Wilson</a><br/>
       New York University
     </td>
-    <td> 
-      <img src="/images/people/SongHan.jpg?raw=true" alt="1" width=auto height=200px><br/>
-      <a href="https://hanlab.mit.edu">Song Han</a><br/>
-      Massachusetts Institute of Technology
-    </td>
   </tr>
 </table>
 
