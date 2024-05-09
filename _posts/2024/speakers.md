@@ -13,7 +13,7 @@ year: 2024
       MILA
     </td>
     <td> 
-      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=180px height=200px><br/>
+      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=200px height=200px><br/>
       <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br/>
       University of Washington
     </td>
