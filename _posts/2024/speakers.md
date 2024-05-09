@@ -18,16 +18,21 @@ year: 2024
       University of Washington
     </td>
     <td> 
+      <img src="/images/people/oriol.jpg?raw=true" alt="1" width=180px height=200px><br/>
+      <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br/>
+      Google DeepMind
+    </td>
+  </tr>
+  <tr>
+    <td> 
       <img src="/images/people/Andrew Gordon Wilson.jpeg?raw=true" alt="1" width=180px height=200px><br/>
       <a href="https://cims.nyu.edu/~andrewgw/">Andrew Gordon Wilson</a><br/>
       New York University
     </td>
-      </tr>
-  <tr>
     <td> 
-      <img src="/images/people/oriol.jpg?raw=true" alt="1" width=180px height=200px><br/>
-      <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br/>
-      Google DeepMind
+      <img src="/images/people/SongHan.jpg?raw=true" alt="1" width=auto height=200px><br/>
+      <a href="https://hanlab.mit.edu">Song Han</a><br/>
+      Massachusetts Institute of Technology
     </td>
   </tr>
 </table>
