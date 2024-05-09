@@ -11,5 +11,5 @@ td {
 }
 </style>
 
-To be announced.
+The list of accepted papers (oral and poster presentations) can be found **[here](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AGI#tab-accept-oral)**.
 
