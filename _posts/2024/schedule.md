@@ -11,10 +11,10 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 
 - 8:20 AM - 8:30 AM: Poster setup for authors (optional)
 - 8:30 AM - 8:45 AM: **Opening remarks**: Jiaxuan You
-- 8:45 AM - 9:30 AM: **Contributed talks from submissions**
-- 9:30 AM - 9:45 AM: **Invited talk**: UK Gov AI Safety Institute
-- 9:45 AM - 10:00 AM: **Coffee break and social**
-- 10:00 AM - 10:45 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
+- 8:45 AM - 9:45 AM: **Contributed talks from submissions**
+- 9:45 AM - 10:00 AM: **Invited talk**: UK Gov AI Safety Institute
+- 10:00 AM - 10:30 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
+- 10:30 AM - 10:45 AM: **Coffee break and social**
 - 10:45 AM - 11:30 AM: **Keynote talk**: Yejin Choi, University of Washington
 - 11:30 AM - 12:00 PM: **Keynote talk**: Andrew Gordon Wilson, New York University
 - 12:00 PM - 12:30 PM: **Keynote talk**: Song Han, MIT
