@@ -5,9 +5,9 @@ permalink: /2024/schedule/
 year: 2024
 ---
 
-The workshop will be held **in hybrid mode** in Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **May 11, 2024**. Check out the official ICLR workshop page for more information about registration and live-stream for registrants **[here](https://iclr.cc/Conferences/2024/CallForWorkshops)**.
+The workshop will be held **in hybrid mode** in Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **May 11, 2024**. Check out **[ICLR.cc](iclr.cc)** for in-person/virtual workshop registeration, and **[our official ICLR workshop page](https://iclr.cc/virtual/2024/workshop/20570)** to view the live-stream for virtual registrants.
 
-We aim to showcase the latest in AGI research, delve into breakthroughs from LLMs and foundation models, and assess the current gaps and challenges towards AGI. With insights from renowned AI experts, the workshop seeks to spark new ideas, foster discussions, and compile a comprehensive summary to guide the broader AI and ML community. We have confirmed with many renowned researchers interested in giving the keynote talks.
+We aim to showcase the latest in AGI research, delve into breakthroughs from LLMs and foundation models, and assess the current gaps and challenges towards AGI. With insights from renowned AI experts, the workshop seeks to spark new ideas, foster discussions, and compile a comprehensive summary to guide the broader AI and ML community. We have confirmed with many renowned researchers to give the keynote talks. **Schedule below is shown in Vienna time zone (CEST, GMT+2)**
 
 - 8:20 AM - 8:30 AM: Poster setup for authors (optional)
 - 8:30 AM - 8:45 AM: **Opening remarks**: Jiaxuan You
