@@ -25,3 +25,17 @@ year: 2024
 </tr>
 </table>
 
+### Area Chairs
+
+<table>
+<tr>
+    <td><strong>Yonatan Bisk</strong><br><em>Carnegie Mellon University</em></td>
+    <td><strong>Yu Su</strong><br><em>Ohio State University</em></td>
+    <td><strong>Haohan Wang</strong><br><em>University of Illinois, Urbana Champaign</em></td>
+</tr>
+<tr>
+    <td><strong>Ziniu Hu</strong><br><em>Caltech</em></td>
+    <td><strong>Yunzhu Li</strong><br><em>University of Illinois, Urbana Champaign</em></td>
+    <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign</em></td>
+</tr>
+</table>
