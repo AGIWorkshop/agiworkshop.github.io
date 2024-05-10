@@ -30,7 +30,7 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
 - 11:30 AM - 12:00 PM: **Keynote talk**: Andrew Gordon Wilson, New York University
 - 12:00 PM - 12:30 PM: **Keynote talk**: Song Han, MIT
 - 12:30 PM - 1:30 PM: **Lunch break and social**: Another opportunity for poster setup
-- 1:30 PM - 2:30 PM: **Keynote talk**: Yoshua Bengio, MILA
+- 1:30 PM - 2:30 PM: **Keynote talk**: Yoshua Bengio, MILA: *Towards deep learning for amortized inference of AGI-strength safety guarantees*
 - 2:35 PM - 4:00 PM: **Panel discussions: How far are we from AGI?** Speakers: Yoshua Bengio, Yejin Choi, Andrew Gordon Wilson; Organizers: Jiaxuan You, Ge Liu, Song Han, Dawn Song
 - 4:00 PM - 5:00 PM: **Poster session and social**
 
