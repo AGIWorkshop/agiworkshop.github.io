@@ -42,7 +42,7 @@ year: 2024
 
 
 <tr>
-    <td><strong>Xin Liu</strong></td>
+    <td><strong>Xin Liu<br></strong></td>
     <td><strong>Yu Su</strong><br><em>Ohio State University</em></td>
     <td><strong>Haohan Wang</strong><br><em>University of Illinois, Urbana Champaign</em></td>
 </tr>
