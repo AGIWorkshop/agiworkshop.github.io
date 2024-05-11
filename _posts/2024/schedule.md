@@ -24,7 +24,7 @@ We aim to showcase the latest in AGI research, delve into breakthroughs from LLM
   - *SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code* **(in person)**, presenter: Ziniu Hu / Alireza Fathi
   - *A language model's guide through latent space* **(in person)**, presenter: Dimitri von Rutte
 - 9:45 AM - 10:00 AM: **Invited talk**: UK Government AI Safety Institute
-- 10:00 AM - 10:30 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind
+- 10:00 AM - 10:30 AM: **Keynote talk**: Oriol Vinyals, Google Deepmind: *From AI to AGI*
 - 10:30 AM - 10:45 AM: **Coffee break and social**
 - 10:45 AM - 11:30 AM: **Keynote talk**: Yejin Choi, University of Washington
 - 11:30 AM - 12:00 PM: **Keynote talk**: Andrew Gordon Wilson, New York University
